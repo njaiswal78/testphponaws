@@ -1,3 +1,3 @@
 <?php 
-echo "Hello Janta"
+echo "<h1>Welcome to showmyads.com</h1>"
 ?>
